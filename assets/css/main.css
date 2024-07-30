@@ -132,7 +132,7 @@ font-size: 500px;
 
 @font-face {
   font-family: 'Rami';
-  src: url('../fonts/kareudon/Rami.ttf') format('truetype');
+  src: url('assets/nav/fonts/kareudon') format('truetype');
   font-weight: 800;
   font-style: normal;
 }
